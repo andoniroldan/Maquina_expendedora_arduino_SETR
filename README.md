@@ -558,5 +558,3 @@ En resumen, la máquina expendedora de bebidas demuestra un diseño modular, efi
 Esta documentación sirve como recurso valioso para comprender y expandir el proyecto, ofreciendo una guía detallada para cualquier persona interesada en explorar y mejorar la funcionalidad de la máquina.
 
 Se dispone de un jpg de el montaje de la máquina hecho con Fritzing y un video explicativo del uso de la máquina.
-
-![Fritzing montaje]([url_de_la_imagen](https://github.com/andoniroldan/Maquina_expendedora_arduino_SETR/blob/main/maquina_expendedora_fritz.jpg)https://github.com/andoniroldan/Maquina_expendedora_arduino_SETR/blob/main/maquina_expendedora_fritz.jpg)
