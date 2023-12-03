@@ -559,4 +559,4 @@ Esta documentación sirve como recurso valioso para comprender y expandir el pro
 
 Se dispone de un jpg de el montaje de la máquina hecho con Fritzing y un video explicativo del uso de la máquina.
 
-<span>![</span><span>Fritzing maquina expendedora</span><span>]</span><span>(</span><span>https://github.com/andoniroldan/Maquina_expendedora_arduino_SETR/blob/main/maquina_expendedora_fritz.jpg</span><span>)</span>
+![Fritzing montaje]([url_de_la_imagen](https://github.com/andoniroldan/Maquina_expendedora_arduino_SETR/blob/main/maquina_expendedora_fritz.jpg)https://github.com/andoniroldan/Maquina_expendedora_arduino_SETR/blob/main/maquina_expendedora_fritz.jpg)
