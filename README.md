@@ -1,1 +1,1 @@
-# Maquina_expendedora_arduino_SETR
+# Maquina expendedora en arduino - Sistemas Empotrados y de Tiempo Real
