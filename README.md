@@ -43,6 +43,7 @@ Definiciones:
 *DHTPIN* y *DHTTYPE*: Configuran el sensor de temperatura y humedad DHT11.
 
 *COLS* y *ROWS*: Especifican las columnas y filas de la pantalla LCD.
+
 productos[] y precios[]: Almacenan nombres y precios de productos respectivamente.
 
 ### Hilos y Controlador:
