@@ -220,7 +220,7 @@ void reinicio_thread_func() {
 ### Hilo de Administración
 
 Este hilo gestiona el acceso al modo de administración, permitiendo la visualización de información específica y la ejecución de acciones administrativas cuando se activa.  
-Si el botós se pulsa más de 5 segundos en cualquier estado, se accede al modo admin si no se está y se sale del modo admin si se está en él.
+Si el botón se pulsa más de 5 segundos en cualquier estado, se accede al modo admin si no se está y se sale del modo admin si se está en él.
 
 ```cpp
 // Hilo para el acceso a la interfaz de administración
