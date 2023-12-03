@@ -21,11 +21,11 @@ Este proyecto utiliza Arduino y diversas bibliotecas para proporcionar un servic
    - [**Servicio Principal**](#servicio-principal)
 5. [**Conclusión**](#conclusión)
 
-## 1. Introducción
+## Introducción
 
 La máquina expendedora de bebidas es un proyecto basado en Arduino que utiliza diversos sensores y actuadores para proporcionar un servicio de dispensación de bebidas. Este README se centrará en el código que impulsa la máquina, ofreciendo una explicación detallada y snippets de código relevantes.
 
-## 2. Pines y Definiciones
+## Pines y Definiciones
 
 En esta sección, se detallan los pines utilizados en el proyecto y se establecen definiciones clave. La asignación de pines es crucial para conectar y controlar eficientemente los componentes físicos de la máquina. Aquí, cada elemento, desde LEDs hasta sensores, está claramente definido, facilitando el mantenimiento y la comprensión del código.
 
@@ -111,7 +111,7 @@ static boolean on_b = false;
 
 ```
 
-## 3. Inicialización y Configuración
+## Inicialización y Configuración
 
 La función setup() es esencial para la configuración inicial de la máquina expendedora. Aquí, se establecen las configuraciones de los pines, se inicia la comunicación serial, se inicializan componentes como el sensor DHT11 y la pantalla LCD, y se configuran los hilos con sus funciones asociadas y frecuencias de ejecución. Además, se realiza un proceso de inicio visual mediante el parpadeo de LEDs y se muestra un mensaje de carga en la pantalla LCD.
 
@@ -160,7 +160,7 @@ void setup() {
 
 ```
 
-## 4. Hilos en Arduino
+## Hilos en Arduino
 
 En este proyecto, se implementan hilos en Arduino para gestionar tareas concurrentes de manera eficiente. A continuación, se describen los hilos específicos utilizados:
 
@@ -268,7 +268,7 @@ void admin_thread_func() {
 
 Estos hilos se integran en el controlador de hilos (controll), lo que permite una ejecución simultánea y eficiente de las diferentes tareas dentro de la máquina expendedora.
 
-## 5. Funciones Principales
+## Funciones Principales
 
 En esta sección, se describen las funciones principales que impulsan el funcionamiento de la máquina expendedora. Estas funciones abordan aspectos clave del proyecto, desde la espera controlada hasta la administración de precios y la prestación de servicios.
 
