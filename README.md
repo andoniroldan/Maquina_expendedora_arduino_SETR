@@ -556,3 +556,5 @@ La función esperar asegura pausas controladas, permitiendo que los hilos manten
 En resumen, la máquina expendedora de bebidas demuestra un diseño modular, eficiencia en la ejecución de tareas y una interfaz de administración intuitiva. 
 
 Esta documentación sirve como recurso valioso para comprender y expandir el proyecto, ofreciendo una guía detallada para cualquier persona interesada en explorar y mejorar la funcionalidad de la máquina.
+
+Se dispone de un jpg de el montaje de la máquina hecho con Fritzing y un video explicativo del uso de la máquina.
